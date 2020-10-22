@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/view/Main.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/bussiness/BranchOffice.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/bussiness/client/NaturalPerson.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/bussiness/client/Client.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/bussiness/operation/Operation.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/view/AddCompany.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/view/AddAccount.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/bussiness/account/Account.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/bussiness/operation/Consignment.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/bussiness/operation/Withdrawal.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/bussiness/account/MediatorAccount.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/bussiness/account/SavingsAccount.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/bussiness/StarBank.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/view/WithdrawalForm.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/view/Welcome.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/bussiness/Cashier.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/bussiness/operation/AccountDeactivation.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/bussiness/account/CurrentAccount.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/view/DeactivateAccount.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/persistence/Serializacion.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/bussiness/client/Company.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/StarBank/src/view/AddNatPerson.java</file>
+        </group>
+    </open-files>
+</project-private>
